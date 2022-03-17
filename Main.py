@@ -82,7 +82,7 @@ def yes():
   messagebox.showinfo('Start','Are you ready ?')
  
 #  input("Are you ready ? [ Enter ]")
-  # By Divine
+  #321#
   trt()
 
 def info():
